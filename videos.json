@@ -6,6 +6,7 @@
       "description": "Relaxing ocean waves in 360 degrees",
       "videoURL": "https://stream.spatialgen.com/stream/JNVc-sA-_QxdOQNnzlZTc/index.m3u8",
       "thumbnailURL": "https://example.com/thumb1.jpg"
+      "duration": "3:14"
     },
     {
       "id": "2",
@@ -13,6 +14,7 @@
       "description": "Explore stunning mountain peaks in VR",
       "videoURL": "https://stream.spatialgen.com/stream/video2.m3u8",
       "thumbnailURL": "https://example.com/thumb2.jpg"
+      "duration": "2:14"
     }
   ]
 }
