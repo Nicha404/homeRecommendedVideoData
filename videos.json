@@ -2,11 +2,11 @@
   "videos": [
     {
       "id": "1",
-      "title": "Beautiful Ocean Waves",
-      "description": "Relaxing ocean waves in 360 degrees",
-      "videoURL": "https://stream.spatialgen.com/stream/JNVc-sA-_QxdOQNnzlZTc/index.m3u8",
-      "thumbnailURL": "https://example.com/thumb1.jpg",
-      "duration": "3:14"
+      "title": "Apple Invasion",
+      "description": "Tim Cook is stealing m1 chips",
+      "videoURL": "https://stream.spatialgen.com/stream/HxGrhpWV3Hk7vYGRJGigd/index.m3u8",
+      "thumbnailURL": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F06%2Fhypebeast-apple-wwdc-2022-visit-recap-tw-edit.jpg?w=1080&cbr=1&q=90&fit=max",
+      "duration": "1:54"
     },
     {
       "id": "2",
