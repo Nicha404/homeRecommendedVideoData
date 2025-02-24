@@ -2,7 +2,7 @@
   "videos": [
     {
       "id": "1",
-      "title": "Apple Invasion",
+      "title": "Steve Jobs",
       "description": "Tim Cook is stealing m1 chips",
       "videoURL": "https://stream.spatialgen.com/stream/HxGrhpWV3Hk7vYGRJGigd/index.m3u8",
       "thumbnailURL": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F06%2Fhypebeast-apple-wwdc-2022-visit-recap-tw-edit.jpg?w=1080&cbr=1&q=90&fit=max",
@@ -10,10 +10,10 @@
     },
     {
       "id": "2",
-      "title": "Mountain Adventure",
+      "title": "Elon Musk",
       "description": "Explore stunning mountain peaks in VR",
       "videoURL": "https://stream.spatialgen.com/stream/video2.m3u8",
-      "thumbnailURL": "https://example.com/thumb2.jpg",
+      "thumbnailURL": "https://d.newsweek.com/en/full/2590364/elon-musk.jpg?w=1200&f=9bd0f002656a3cd184485146ddc80adf",
       "duration": "2:14"
     }
   ]
